@@ -1,0 +1,10 @@
+Authors: Ryan, James Koval, Brian, Vladimir
+
+This project is built to analyze hash functions. The basic view of the program is a graph on the right based on user inputed functions entered on the left.  There are also user contols on the left to edit the view of the hash function being analyzed.  
+
+In the doc folder, you can find the UserGuide and INSTALL open office documents along with a slide presentation, at https://docs.google.com/present/edit?id=0AQh9RVLE7wuCZGdnZjM2eDlfMjAyY3d0NGd0ZGs , about this program. There is also a UML Class diagram in jpeg and dia formats.
+
+The hash analyzer folder holds our program code.  Inside you can find Hash_Analyzer.sln and a RTG.png file for a background of the folder.  Inside the folder, cs276_bjt_11-2-2008_hashFunctions , you can see the source files for the C# programing code.  If you go in the bin/Debug folder, you run the executable:
+cs276_bjt_11--2008_hashFunctions.exe
+
+The function folder holds code by Vladimir, which was merged into the program

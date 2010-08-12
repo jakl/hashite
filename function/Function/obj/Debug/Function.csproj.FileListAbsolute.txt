@@ -1,0 +1,10 @@
+C:\Users\Vladimir\Documents\Visual Studio 2008\Projects\Function\Function\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2008\Projects\Function\Function\obj\Debug\Function.Properties.Resources.resources
+C:\Users\Vladimir\Documents\Visual Studio 2008\Projects\Function\Function\obj\Debug\Function.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Documents\Visual Studio 2008\Projects\Function\Function\bin\Debug\Function.exe
+C:\Users\Vladimir\Documents\Visual Studio 2008\Projects\Function\Function\bin\Debug\Function.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2008\Projects\Function\Function\obj\Debug\Function.exe
+C:\Users\Vladimir\Documents\Visual Studio 2008\Projects\Function\Function\obj\Debug\Function.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2008\Projects\Function\Function\obj\Debug\Function.MainForm.resources
+C:\Documents and Settings\brian.twitchell\Desktop\hashites\Function\Function\obj\Debug\Function.exe
+C:\Documents and Settings\brian.twitchell\Desktop\hashites\Function\Function\obj\Debug\Function.pdb
